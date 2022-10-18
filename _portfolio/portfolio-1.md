@@ -5,7 +5,7 @@ collection: portfolio
 ---
 Surveyed the state-of-the-art trajectory generation with obstacle problems for UAV, which can be solved by optimal control via sampling-based search, graph-search and artificial potential fields method.
 
-c Classified delivery tasks as high priority and low priority drones respectively to perform simultaneous exploration and exploitation in unknown environments.
+Classified delivery tasks as high priority and low priority drones respectively to perform simultaneous exploration and exploitation in unknown environments.
 
 Proposed exploration tasks aiming to reduce the quantified uncertainty, which implicitly aids task completion in the long term. While exploitation tasks making full use of gathered information to optimize operation.
 
