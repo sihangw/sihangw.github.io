@@ -1,6 +1,6 @@
 ---
 title: "Online Map Recognition using Bayesian Updates"
-excerpt: "Present a system for online map recognition method with Hidden Markov Modelwith novel heuristic-based likelihood model. Conducted experiments with Gazebo simulation and visualization of localization process through RVIZ "
+excerpt: "Present a system for online map recognition method with Hidden Markov Modelwith novel heuristic-based likelihood model. Conducted experiments with Gazebo simulation and visualization of localization process through RVIZ."
 collection: portfolio
 ---
 Present a system for online map recognition method with Hidden Markov Model where the state is the belief that we are in a given map and observations are particle distributions.
