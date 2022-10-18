@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-A PDF version of my CV can be obtained [here]([https://www.dropbox.com/s/vm1zeh8ncqyzex9/Resume.pdf?dl=0]).
+A PDF version of my CV can be obtained [here]([_pages/Resume.pdf]).
 
 Education
 ======
