@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Sihang Wei"
+title                    : "Mr. Sihang Wei"
 title_separator          : "-"
 name                     : &name "Sihang Wei"
 description              : &description "Mater Student At UMich"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sihang Wei"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Master stundet at UMich"
   location         : "Ann Arbor, Michigan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
