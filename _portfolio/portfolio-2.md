@@ -1,6 +1,6 @@
 ---
 title: "Synchronization and Obstacle Avoidance of Multi-Agent System"
-excerpt: "Formulated a problem of synchronization and obstacle avoidance of Multi-Agent System with directed graph. Controllers based on LQR-CBF-CLF and MPC-CBF-CLF was developed."
+excerpt: "Formulated a problem of synchronization and obstacle avoidance of Multi-Agent System with directed graph. Controllers based on LQR-CBF-CLF and MPC-CBF-CLF was developed. 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 Formulated the problem of synchronization and obstacle avoidance of Multi-Agent System over a directed graph subject to communication link faults.
