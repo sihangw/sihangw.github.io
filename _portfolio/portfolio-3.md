@@ -1,9 +1,12 @@
 ---
-title: "Study of Time-sequenced In-cylinder Engine Flow Fields Prediction"
-excerpt: "Learned high-speed particle image velocimetry (PIV) techniques to describe the 3D features of direct injection engine in-cylinder flow. Surveyed cutting edge methods of detecting and quantifying the transient vortex characteristics to provide a reliable way of improving temporal resolution in PIV flow data. Applied K-means and Fuzzy-C-Means clustering algorithm for detection of time-resolved transient vortex
-patterns to mitigate the loss of transient flow information based on conventional ensemble flow field analysis. Predicted the underlying dynamics of the interaction between in-cylinder flows using Long Short-term
-Memory (LSTM) based bidirectional recurrent neural network (bi-RNN) model. Experiment conducted show that the bi-RNN model can accurately predict the bulk flow and vortex motions from early intake stroke to
-compression stroke."
+title: "Synchronization and Obstacle Avoidance of Multi-Agent System"
+excerpt: "Formulated a problem of synchronization and obstacle avoidance of Multi-Agent System with directed graph. Controllers based on LQR-CBF-CLF and MPC-CBF-CLF was developed."
+collection: portfolio
 ---
+Formulated the problem of synchronization and obstacle avoidance of Multi-Agent System over a directed graph subject to communication link faults.
 
-Report can be viewd [here](https://www.dropbox.com/s/7p887g1c9582gcg/Revised1_final_report_wsh.pdf?dl=0).
+Leveraged observer-based controller scheme with linear-quadratic regulator (LQR) and model predictive control (MPC). Explored Control Lyapunov Function and Control Barrier Function (CBF-CLF) based method for obstacle avoidance of leader and follower agents
+
+Adopted a distributed resilient state estimation method upon which we present our own control protocols to address the communication link faults.
+
+Report can be viewd [here](https://www.overleaf.com/read/gpdqjsqvggrh) and slides can be viewed [here](https://docs.google.com/presentation/d/1XK8ie3_NdOfbn96_KCTx3Zc9yU9yDQ0dhDGJp0T_Id0/edit?usp=sharing).
