@@ -1,6 +1,6 @@
 ---
 title: "Study of Time-sequenced In-cylinder Engine Flow Fields Prediction"
-excerpt: "Learned high-speed particle image velocimetry (PIV) techniques to describe the 3D features of direct injection engine in-cylinder flow. Applied unsupervised learning algorithm and deep learning method for detection of time-resolved transient vortexpatterns to mitigate the loss of transient flow information based on conventional ensemble flow field analysis and to predict the bulk flow and vortex motions from early intake stroke to compression stroke."
+excerpt: "Learned high-speed particle image velocimetry (PIV) techniques. Applied unsupervised learning algorithm and deep learning method for detection of time-resolved transient vortex patterns and to prediction of the bulk flow and vortex motions from early intake stroke to compression stroke."
 collection: portfolio
 ---
 Learned high-speed particle image velocimetry (PIV) techniques to describe the 3D features of direct injection engine in-cylinder flow. Surveyed cutting edge methods of detecting and quantifying the transient vortex characteristics to provide a reliable way of improving temporal resolution in PIV flow data. 
