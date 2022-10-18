@@ -23,9 +23,3 @@ Present Response Surface Methodology and Design of experiments (DOE) to determin
 and then used Gaussian Regression to modelling the system. Controller was developed in terms of optimal
 valve train timing and valve lift based on improved NSGA-II algorithm for our valvetrain system.
 Conducted experiments with electric dynamometers on our self-built test bench.
-
-R&R from AER
-
-[Download](http://econweb.umd.edu/~lopez-vargas/Grosskopf_LopezVargas_2014.pdf)
-
-Recommended citation: Grosskopf, B. and López-Vargas, K. (2014). "On the Demand for Expressing Emotions."
