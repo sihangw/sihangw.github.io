@@ -9,4 +9,4 @@ Leveraged observer-based controller scheme with linear-quadratic regulator (LQR)
 
 Adopted a distributed resilient state estimation method upon which we present our own control protocols to address the communication link faults.
 
-Report can be viewd [here](https://www.overleaf.com/read/gpdqjsqvggrh) and slides can be viewed [here](https://docs.google.com/presentation/d/1XK8ie3_NdOfbn96_KCTx3Zc9yU9yDQ0dhDGJp0T_Id0/edit?usp=sharing).
+Report can be viewd [here](https://www.overleaf.com/read/gpdqjsqvggrh) and slides can be viewed [here](https://docs.google.com/presentation/d/1s6Ba3y0D9pZgH-MT7rRAsKmhZH_HD6-R2XlpOyxg2rk/edit?usp=sharing).
