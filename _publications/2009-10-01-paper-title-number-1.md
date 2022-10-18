@@ -17,7 +17,12 @@ citation: 'Grosskopf, B. and López-Vargas, K. (2014). &quot;On the Demand for E
 
 ---
 
-People communicate in economic interactions either aiming to alter material outcomes or because they derive direct satisfaction from expressing. We focus on the latter non-instrumental motivation and find that this less researched aspect of expression has important economic implications. In particular, we experimentally study ex-post verbal expression in a modified Power-to-Take game and document people's willingness to pay for this kind of expression possibility. Our experiment contributes to previous studies discussing the role of mood-emotional states. We find that purely expressive as well as reciprocal motives are both non-trivial components of the valuation for non-instrumental expression. We demonstrate that expression possibilities have important impacts on welfare beyond what our standard economic view predicts. 
+Designed a novel Electromagnetic Fully Variable Valvetrain system. Projected new intake and Exhaust system
+correspondingly. Built the test bench to carry out further calibration and optimization experiments.
+Present Response Surface Methodology and Design of experiments (DOE) to determine essential parameters
+and then used Gaussian Regression to modelling the system. Controller was developed in terms of optimal
+valve train timing and valve lift based on improved NSGA-II algorithm for our valvetrain system.
+Conducted experiments with electric dynamometers on our self-built test bench.
 
 R&R from AER
 
