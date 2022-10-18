@@ -7,7 +7,7 @@ Present a system for online map recognition method with Hidden Markov Model wher
 
 Adopted particle filter based Adaptive Monte-Carlo Localization (AMCL) as our re-localization approach.
 
-Developed a novel heuristic-based likelihood model to model the conditional probability of a particledistribution given a map with our main factors for place recognition belief Update from the particle filter being covariance of the estimated position, and the ratio of free space occupying particles.
+Developed a novel heuristic-based likelihood to model the conditional probability of a particledistribution given a map with our main factors for place recognition belief Update from the particle filter being covariance of the estimated position, and the ratio of free space occupying particles.
 
 Conducted experiments with Gazebo simulation and visualization of localization process through RVIZ in ROS based on ROBOTIS Turtlebot3 robot platform with our own dataset.
 
