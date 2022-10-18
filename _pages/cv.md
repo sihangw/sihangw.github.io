@@ -11,7 +11,7 @@ redirect_from:
 
 CV
 ======
-A PDF version of my CV can be obtained here.
+A PDF version of my CV can be obtained [here]([https://github.com/academicpages/academicpages.github.io](https://www.dropbox.com/s/vm1zeh8ncqyzex9/Resume.pdf?dl=0)).
 
 Education
 ======
