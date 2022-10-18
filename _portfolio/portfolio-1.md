@@ -1,6 +1,6 @@
 ---
 title: "Delivery Drones Dispatch Policy Under Wind Uncertainty"
-excerpt: "Formulated the delivery drones dispatch problems. Leveraged Gaussian Process Regression (GPR) and Markov Decision Process (MDP) framework for plannning of this drone system."
+excerpt: "Formulated the delivery drones dispatch problems. Leveraged Gaussian Process Regression (GPR) and Markov Decision Process (MDP) framework for plannning of this drone system. 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 Surveyed the state-of-the-art trajectory generation with obstacle problems for UAV, which can be solved by optimal control via sampling-based search, graph-search and artificial potential fields method.
