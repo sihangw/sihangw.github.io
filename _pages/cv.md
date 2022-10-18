@@ -9,23 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of my CV can be obtained here.
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.Eng. in Automation, Nanjing Institute of Technology, 2020
 * M.S. in Mechanical Engineering, University of Michigan, Ann Arbor, 2023 (expected)
 * M.S. in Electric and Computer Engineering, University of Michigan, Ann Arbor, 2023 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
