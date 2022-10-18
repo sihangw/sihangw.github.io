@@ -1,6 +1,6 @@
 ---
-title: "Delivery Drones Dispatch Policy Under Wind Uncertainty"
-excerpt: "Formulated the delivery drones dispatch problems. Leveraged Gaussian Process Regression (GPR) and Markov Decision Process (MDP) framework for plannning of this drone system."
+title: "Captioning Image to Assist People Who are Blind "
+excerpt: "Leveraged attention-based deep learning model methods applied in image captioning areas."
 collection: portfolio
 ---
 Surveyed attention-based deep learning model methods applied in image captioning areas.
