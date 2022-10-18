@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Electromagnetic Valvetrain System Design of IC Engines"
+excerpt: "In this project, we designed a novel Electromagnetic Fully Variable Valvetrain system. Projected new intake and Exhaust system correspondingly. Test bench was built to carry out further calibration and optimization experiments. We Present Response Surface Methodology and Design of experiments (DOE) to determine essential parameters and then used Gaussian Regression to modelling the system. Controller was developed in terms of optimal valve train timing and valve lift based on improved NSGA-II algorithm for our valvetrain system. Finally, experiments were conducted with electric dynamometers on our self-built test bench."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
