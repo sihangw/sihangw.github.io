@@ -1,20 +1,26 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "On the Demand for Expressing Emotions"
+
+collection: research
+
+permalink: /research/2014-04-01-EmotionDemand
+
+excerpt: ''
+
+date: 2014-04-21
+
+venue: 'R&R from AER'
+
+paperurl: 'http://econweb.umd.edu/~lopez-vargas/Grosskopf_LopezVargas_2014.pdf'
+
+citation: 'Grosskopf, B. and López-Vargas, K. (2014). &quot;On the Demand for Expressing Emotions.&quot;  <i>Working Paper</i>.'
+
 ---
-Designed a novel Electromagnetic Fully Variable Valvetrain system. Projected new intake and Exhaust system
-correspondingly. Built the test bench to carry out further calibration and optimization experiments.
 
-Present Response Surface Methodology and Design of experiments (DOE) to determine essential parameters
-and then used Gaussian Regression to modelling the system. Controller was developed in terms of optimal
-valve train timing and valve lift based on improved NSGA-II algorithm for our valvetrain system.
+People communicate in economic interactions either aiming to alter material outcomes or because they derive direct satisfaction from expressing. We focus on the latter non-instrumental motivation and find that this less researched aspect of expression has important economic implications. In particular, we experimentally study ex-post verbal expression in a modified Power-to-Take game and document people's willingness to pay for this kind of expression possibility. Our experiment contributes to previous studies discussing the role of mood-emotional states. We find that purely expressive as well as reciprocal motives are both non-trivial components of the valuation for non-instrumental expression. We demonstrate that expression possibilities have important impacts on welfare beyond what our standard economic view predicts. 
 
-Conducted experiments with electric dynamometers on our self-built test bench.
+R&R from AER
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download](http://econweb.umd.edu/~lopez-vargas/Grosskopf_LopezVargas_2014.pdf)
+
+Recommended citation: Grosskopf, B. and López-Vargas, K. (2014). "On the Demand for Expressing Emotions."
