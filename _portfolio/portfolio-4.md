@@ -12,4 +12,4 @@ Developed a novel heuristic-based likelihood to model the conditional probabilit
 Conducted experiments with Gazebo simulation and visualization of localization process through RVIZ in ROS based on ROBOTIS Turtlebot3 robot platform with our own dataset.
 
 
-Report can be viewd [here]([https://www.overleaf.com/read/gpdqjsqvggrh](https://www.overleaf.com/read/gvbvggxfvsxc) and slides can be viewed [here](https://docs.google.com/presentation/d/1XK8ie3_NdOfbn96_KCTx3Zc9yU9yDQ0dhDGJp0T_Id0/edit?usp=sharing).
+Report can be viewd [here](https://www.overleaf.com/read/gvbvggxfvsxc) and slides can be viewed [here](https://docs.google.com/presentation/d/1XK8ie3_NdOfbn96_KCTx3Zc9yU9yDQ0dhDGJp0T_Id0/edit?usp=sharing).
