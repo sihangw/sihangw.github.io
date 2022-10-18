@@ -1,6 +1,10 @@
 ---
 title: "Electromagnetic Valvetrain System Design of IC Engines"
-excerpt: "Designed a novel Electromagnetic Fully Variable Valvetrain system. Projected new intake and Exhaust system correspondingly. Built a test bench to carry out further calibration and optimization experiments. Present Response Surface Methodology and Design of experiments (DOE) to determine essential parameters and then used Gaussian Regression to modelling the system. Controller was developed in terms of optimal valve train timing and valve lift based on improved NSGA-II algorithm for our valvetrain system. Conducted experiments with electric dynamometers on our self-built test bench."
+excerpt: "Designed a novel Electromagnetic Fully Variable Valvetrain system. Projected new intake and Exhaust system correspondingly. Built a test bench to carry out further calibration and optimization experiments. 
+
+Present Response Surface Methodology and Design of experiments (DOE) to determine essential parameters and then used Gaussian Regression to modelling the system. Controller was developed in terms of optimal valve train timing and valve lift based on improved NSGA-II algorithm for our valvetrain system. 
+
+Conducted experiments with electric dynamometers on our self-built test bench."
 collection: portfolio
 ---
 
